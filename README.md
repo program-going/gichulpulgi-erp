@@ -27,6 +27,7 @@ ERP 정보관리사 1급(회계 · 인사 · 물류 · 생산) 기출문제 회�
 
 1. [최신 설치 파일 다운로드](https://github.com/program-going/gichulpulgi-erp/releases/latest) 에서 `.exe` 파일을 다운로드합니다.
 2. 다운로드한 파일을 실행하고 설치 화면의 안내대로 진행합니다.
+   - 처음 실행할 때 'Windows의 PC 보호' 창이 나오면 [추가 정보] → [실행] 을 클릭합니다.
 3. 바탕화면의 [기출문제풀기 ERP정보관리사] 를 실행합니다.
 
 지난 버전은 [Releases](https://github.com/program-going/gichulpulgi-erp/releases) 에 있습니다.
