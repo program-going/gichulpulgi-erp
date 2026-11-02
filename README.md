@@ -32,6 +32,8 @@ ERP 정보관리사 1급(회계 · 인사 · 물류 · 생산) 기출문제 회�
 
 지난 버전은 [Releases](https://github.com/program-going/gichulpulgi-erp/releases) 에 있습니다.
 
+최신 버전과 회차 자료를 받을 수 있도록, GitHub 주소만 공유해 주세요.
+
 ## 핵심ERP DB 교체
 
 [풀기] 를 클릭하면 핵심ERP DB 가 그 회차 DB 로 교체됩니다.
