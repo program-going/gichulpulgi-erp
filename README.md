@@ -1,6 +1,6 @@
 # 기출문제풀기 ERP정보관리사
 
-ERP 정보관리사 1급(회계 · 인사 · 물류 · 생산) 기출문제 회차 DB 를 iCUBE 핵심ERP 에 바로 연결해 풀 수 있게 하는 Windows 프로그램입니다.
+ERP 정보관리사 1급 · 2급(회계 · 인사 · 물류 · 생산) 기출문제 회차 DB 를 iCUBE 핵심ERP 에 바로 연결해 풀 수 있게 하는 Windows 프로그램입니다.
 
 <img src="docs/home.png" width="720" alt="기출문제풀기 ERP정보관리사 홈 화면">
 
