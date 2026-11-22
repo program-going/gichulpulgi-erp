@@ -60,6 +60,8 @@ ERP 정보관리사 1급 · 2급(회계 · 인사 · 물류 · 생산) 실기 �
 
 사용 중 궁금한 점이나 오류는 [Issues](https://github.com/program-going/gichulpulgi-erp/issues) 에 글로 남겨 주세요.
 
+사용 후기는 [Discussions](https://github.com/program-going/gichulpulgi-erp/discussions) 에 남겨 주세요.
+
 글을 남기려면 GitHub 로그인이 필요합니다.
 
 ## 저작권
